@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #0097A7;
+}
+h2{
+	font-family: 'PT Mono', monospace;
+	font-size: 1.5em;
+	color: #84FFFF;
+}
+
+.cart {
+
+font-family: 'Overpass Mono', monospace;
+font-size: .8em;
+
+color: #FEFFF4;
+}
+
+.shelfBtn {
+	list-style-type: none;
+	padding-left:0; 
+}
+
+.cartBtn {
+	list-style-position: inside;
+	padding-left:0; 
+
+}
+.shelf{
+	list-style-position:inside;
+	/*list-style-type: none;*/
+	font-family: 'Overpass Mono', monospace;
+font-size: .8em;
+	color: #FEFFF4;
+}
+.cart{
+	list-style-position:inside;
+}
+
+button{
+color: #006064;
+font-family: 'PT Mono', monospace;
+font-size: .5em;
+}
+
+.button1 {
+	padding: 0.5em;
+	background-color: #E0F7FA;
+	font-family: 'PT Mono', monospace;
+	color: #006064;
+	text-align: center;
+	text-decoration: none;
+	line-height: 2em;
+	white-space: nowrap;
+	box-shadow: 8px 10px 20px 0 rgba(46,61,73,0.15);
+	border: 0.125rem solid transparent;
+	border-radius: 0.25rem;
+	transition: all 0.3s ease 0s;
+}
