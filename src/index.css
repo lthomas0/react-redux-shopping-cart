@@ -13,7 +13,7 @@ h2{
 .cart {
 
 font-family: 'Overpass Mono', monospace;
-font-size: .8em;
+font-size: 1.5em;
 
 color: #FEFFF4;
 }
@@ -32,7 +32,7 @@ color: #FEFFF4;
 	list-style-position:inside;
 	/*list-style-type: none;*/
 	font-family: 'Overpass Mono', monospace;
-font-size: .8em;
+font-size: 1.5em;
 	color: #FEFFF4;
 }
 .cart{
